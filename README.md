@@ -15,5 +15,7 @@ I really enjoyed creating this and hope others find it cool
  
  * In addition there are 3 commands 
   -ACT#1 : Adds a spanish word and english definition to the file
+  
   -ACT#2 : Deletes a word from the text file
+  
   -ACT#3 : Replaces a word in the text file
