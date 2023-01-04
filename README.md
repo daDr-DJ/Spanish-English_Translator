@@ -1,6 +1,6 @@
 # Spanish-English_Translator
 
-This code translates spanish-words into english and vice versa
+This program translates spanish-words into english and vice versa
 
 I really enjoyed creating this and hope others find it cool 
 
@@ -20,3 +20,7 @@ I really enjoyed creating this and hope others find it cool
   -ACT#2 : Deletes a word from the text file
   
   -ACT#3 : Replaces a word in the text file
+  
+  * After downloading the installer set the location that you want your exexutable in and send the executable to desktop. 
+  
+  :D
